@@ -11,8 +11,7 @@ Soy Robert Alvarado, pero prefiero Trebor. Estudiante de Ciencias de la Computac
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Treborrr&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Treborrr&icon=5&color=6)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/7rebor__) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20022380) 
+---
+[![](https://visitcount.itsvg.in/api?id=Treborrr&icon=5&color=6)](https://visitcount.itsvg.in)
