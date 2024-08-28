@@ -5,10 +5,7 @@ My name is Robert Alvarado, but I prefer to be called Trebor. I am a Computer Sc
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Treborrr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Treborrr&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Treborrr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Treborrr&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Treborrr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/7rebor__) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20022380) 
