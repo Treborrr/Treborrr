@@ -4,7 +4,7 @@
 
 <h1 align="center">Robert Alvarado</h1>
 
-### **Desarrollador de Sistemas & Consultor de Transformación Digital** 🚀
+### **Desarrollador de Sistemas & Consultor de Transformación Digital** 
 
 Soy un programador enfocado en **resolver problemas de negocio**. Mi trabajo consiste en analizar cómo operan las empresas para diseñar y construir sistemas a medida que eliminen la fricción del papel y los procesos manuales, llevando toda la operación a una infraestructura robusta en la nube.
 
@@ -33,7 +33,3 @@ Soy un programador enfocado en **resolver problemas de negocio**. Mi trabajo con
 ### 📨 Conecta conmigo
 *   [**Reddit**](https://reddit.com/user/7rebor__)
 *   [**Stack Overflow**](https://stackoverflow.com/users/20022380)
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=Treborrr&icon=5&color=6" alt="Visitas" />
-</p>
