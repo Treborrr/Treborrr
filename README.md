@@ -1,9 +1,36 @@
-# 💫 About Me:
-My name is Robert Alvarado, but I prefer to be called Trebor. I am a Computer Science student at UPC. At 21 years old, I am passionate about programming and creative problem-solving. I create personal projects to practice my skills and am committed to my professional growth in technology. I am eager to face new challenges.
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim%200.5+-green.svg?style=for-the-badge&logo=neovim) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/7rebor__) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20022380) 
+# Robert Alvarado <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" />
+
+### **Desarrollador de Sistemas & Consultor de Transformación Digital** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Rocket.png" width="30" />
+
+Soy un programador enfocado en **resolver problemas de negocio**. Mi trabajo consiste en analizar cómo operan las empresas para diseñar y construir sistemas a medida que eliminen la fricción del papel y los procesos manuales, llevando toda la operación a una infraestructura robusta en la nube.
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Treborrr&icon=5&color=6)](https://visitcount.itsvg.in)
+
+### 🛠️ Lo que hago
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="20" /> **Análisis Operativo:** Estudio tu flujo de trabajo actual para identificar cuellos de botella.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Computer.png" width="20" /> **Digitalización:** Transformo formularios y registros físicos en plataformas digitales intuitivas.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Travel%20and%20Places/Cloud.png" width="20" /> **Seguridad en la Nube:** Implemento respaldos automatizados para que tu información nunca se pierda.
+
+---
+
+### 💻 Stack Tecnológico <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Gear.png" width="25" />
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Stack Actual** | `Angular`, `TypeScript`, `Next.js` |
+| **Bases de Datos** | `PostgreSQL`, `MySQL`, `SQLite` |
+| **Otros Lenguajes** | `C++`, `Lua`, `PHP`, `Python` |
+| **Infraestructura** | `Apache`, `AWS`, `Docker`, `Nginx` |
+| **Deploy** | `Railway`, `Supabase`, `Vercel` |
+| **Herramientas** | `Git`, `Laragon`, `Linux`, `Neovim` |
+
+---
+
+### 📨 Conecta conmigo
+*   [**Reddit**](https://reddit.com/user/7rebor__)
+*   [**Stack Overflow**](https://stackoverflow.com/users/20022380)
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Treborrr&icon=5&color=6" alt="Visitas" />
+</p>
