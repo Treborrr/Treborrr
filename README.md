@@ -26,7 +26,7 @@ Soy un programador enfocado en **resolver problemas de negocio**. Mi trabajo con
 | **Otros Lenguajes** | `C++`, `Lua`, `PHP`, `Python` |
 | **Infraestructura** | `Apache`, `AWS`, `Docker`, `Nginx` |
 | **Deploy** | `Railway`, `Supabase`, `Vercel` |
-| **Herramientas** | `Git`, `Laragon`, `Linux`, `Neovim` |
+| **Herramientas** | `Git`, `Laragon`, `Linux`, `Neovim`, `Bash` |
 
 ---
 
